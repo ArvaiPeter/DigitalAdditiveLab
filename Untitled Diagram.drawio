@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T09:39:02.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36    " version="20.5.1" etag="IbvXopoRNiJ3JeO57YGR" type="github"><diagram id="0YWAHoYuDMbM1srXzkip">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-01T09:50:42.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36    " etag="9K21a0taODhNNh18BLsC" version="20.5.1" type="github">
+  <diagram id="0YWAHoYuDMbM1srXzkip" name="Page-1">
+    <mxGraphModel dx="1352" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g254TGOaUg-Zd9ARLTee-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="327.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-4" value="CAD functionalities" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="415" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-8" value="&lt;h1&gt;ROS&lt;/h1&gt;&lt;div&gt;&quot;Digital twin&quot;, simulated environment of and additive machine&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="415" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g254TGOaUg-Zd9ARLTee-9" target="g254TGOaUg-Zd9ARLTee-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-9" value="&lt;h1&gt;ImGui&lt;/h1&gt;&lt;div&gt;(docking branch)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Make integration of new tools easy&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="150" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-10" value="&lt;h1&gt;Slicer&lt;/h1&gt;&lt;div&gt;Slicig and GCODE preview of manufacturing process&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Should integrate existing planar slicers (Cura), and make the process of experimenting simple ( 5 axis slicing, non planar printing ... )&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="95" width="190" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g254TGOaUg-Zd9ARLTee-14" target="g254TGOaUg-Zd9ARLTee-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g254TGOaUg-Zd9ARLTee-14" target="g254TGOaUg-Zd9ARLTee-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g254TGOaUg-Zd9ARLTee-14" target="g254TGOaUg-Zd9ARLTee-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g254TGOaUg-Zd9ARLTee-14" value="Tools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
